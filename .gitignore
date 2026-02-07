@@ -1,0 +1,68 @@
+# --- Misceláneos del Sistema ---
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# --- IDEs y Editores (IntelliJ / Android Studio) ---
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# --- VS Code ---
+#.vscode/
+
+# --- Flutter / Dart / Pub ---
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# --- Depuración y Ofuscación ---
+app.*.symbols
+app.*.map.json
+
+# --- Artefactos de Android ---
+/android/app/debug
+/android/app/profile
+/android/app/release
+.config/
+
+# --- Seguridad y Secretos ---
+builder.config.json
+.env*
+*.jks
+*.keystore
+*.key
+android/key.properties
+ios/Flutter/Release.xcconfig
+
+# --- Firebase ---
+google-services.json
+GoogleService-Info.plist
+
+# --- Sistema y Logs Extra ---
+*.log
+.temp/
+
+# --- Rutas Locales ---
+android/local.properties
+
+# --- Dependencias de iOS ---
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
