@@ -1,5 +1,31 @@
 
-# 🏗️ Estimador de Costos de Construcción CR
+<div align="center">
+  <br>
+  <img src="assets/icon/icon.jpg" alt="Logo Estimador CR" width="120" height="120">
+
+  <br>
+
+  <h1>Estimador de Costos de Construcción CR</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-3.7.2+-02569B?logo=flutter&logoColor=white" alt="Flutter Version">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white" alt="Dart Version">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey" alt="Platform">
+  </p>
+
+  <p>
+    <a href="TU_ENLACE_DE_APP_STORE_AQUI">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store" height="50">
+    </a>
+    &nbsp;&nbsp;&nbsp; <a href="TU_ENLACE_DE_PLAY_STORE_AQUI">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
+    </a>
+  </p>
+</div>
+
+<br> ESTACO CR (Estimador de Costos de Construcción)
 
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.7.2+-02569B?logo=flutter&logoColor=white)
 ![Dart Version](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white)
