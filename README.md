@@ -5,7 +5,7 @@
 
   <br>
 
-  <h1>Estimador de Costos de Construcción CR</h1>
+  <h1>ESTACO CR (Estimador de Costos de Construcción)</h1>
 
   <p>
     <img src="https://img.shields.io/badge/Flutter-3.7.2+-02569B?logo=flutter&logoColor=white" alt="Flutter Version">
@@ -16,29 +16,15 @@
   </p>
 
   <p>
-    <a href="TU_ENLACE_DE_APP_STORE_AQUI">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store" height="50">
+    <a href="https://apps.apple.com/cr/app/estaco-cr/id6755981891">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store" height="40">
     </a>
-    &nbsp;&nbsp;&nbsp; <a href="TU_ENLACE_DE_PLAY_STORE_AQUI">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
+    &nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.tfgapp.estacocr">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40">
     </a>
   </p>
 </div>
 
-<br> ESTACO CR (Estimador de Costos de Construcción)
-
-![Flutter Version](https://img.shields.io/badge/Flutter-3.7.2+-02569B?logo=flutter&logoColor=white)
-![Dart Version](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)
-
-<p align="left">
-  <a href="https://apps.apple.com/cr/app/estaco-cr/id6755981891">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.tfgapp.estacocr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40">
-  </a>
-</p>
 
 **Estimador de Costos de Construcción CR** es una solución móvil profesional desarrollada para la valoración preliminar de obras civiles en Costa Rica. Automatiza los cálculos basados en el **Manual de Valores Base Unitario por Tipología** del Ministerio de Hacienda.
 
