@@ -46,7 +46,7 @@ class AppData {
     AposentoType(name: 'Sala', imagePath: 'assets/images/Sala.png'),
     AposentoType(name: 'Cocina', imagePath: 'assets/images/Cocina.png'),
     AposentoType(name: 'Comedor', imagePath: 'assets/images/Comedor.png'),
-    AposentoType(name: 'Baño', imagePath: 'assets/images/Baño.png'),
+    AposentoType(name: 'Baño', imagePath: 'assets/images/Bano.png'),
     AposentoType(
       name: 'Estudio/Despacho',
       imagePath: 'assets/images/Estudio.png',

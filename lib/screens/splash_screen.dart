@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: AppColors.negroFondo,
       body: Center(
         child: Image(
-          image: AssetImage('assets/images/logo_estaca.png.png'),
+          image: AssetImage('assets/images/logo_estaca.png'),
           width: 200,
         ),
       ),
