@@ -85,29 +85,46 @@ lib/
 
 ---
 
-## 🚀 Instalación y Uso
+## 🛠️ Instalación y Configuración
+
+Si deseas ejecutar este proyecto localmente para pruebas:
+
+### Requisitos Previos
+* [Flutter SDK](https://docs.flutter.dev/get-started/install) (Versión 3.7.0 o superior)
+* Un emulador Android/iOS o un dispositivo físico conectado.
+
+### Pasos
 
 1. **Clonar el repositorio:**
 ```
-git clone https://github.com/jvalverde-dev/estimador-costos-flutter.git
+git clone https://github.com/jvalverde-dev/construction-cost-estimator-cr.git
 
 ```
 
+2. **Entrar al directorio:**
+```
+cd construction-cost-estimator-cr
 
-2. **Instalar dependencias:**
+```
+
+3. **Instalar dependencias:**
 ```
 flutter pub get
 
 ```
 
 
-3. **Ejecutar la aplicación:**
+4. **Ejecutar la aplicación:**
 ```
 flutter run
 
 ```
 
+*Nota: Este proyecto utiliza generación de código. Si encuentras errores de modelos, ejecute:*
+```bash
+flutter pub run build_runner build --delete-conflicting-outputs
 
+```
 
 ---
 
